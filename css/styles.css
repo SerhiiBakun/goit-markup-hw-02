@@ -48,7 +48,7 @@ header {
 
 /* Logo */
 .logo {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-size: 26px;
   line-height: 1.2;
   font-weight: 700;
